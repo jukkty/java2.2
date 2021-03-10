@@ -1,47 +1,18 @@
-Thumbs.db*
-.DS_Store*
-HELP.md
-.gradle
-build/
-target/
+# Отчёт о тестировании приложения "Precision"
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+## Краткое описание
 
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-out/
+Проведено короткое функциональное дымовое тестирование приложения "Precision"
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+## Описание тестов
 
-### VS Code ###
-.vscode/
+Была проверена программа "Precision" на работоспособность и четкое отображение результата
 
-### Package Files ###
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+## Результаты
 
-### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
-!**/src/test/**
+1. 0% успешных тестов
+2. []()
+
+## Общие рекомендации
+
+Я бы поменял тип данных на целые,но в результате делил бы на 10,дабы получить десятые значения
